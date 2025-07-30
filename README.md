@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=One%20Of%20Neglected)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gae%20Mot%20Hack)
 
 <h1>Gae-Mot-Hack Develop Repository</h1>
 <p align="center">
